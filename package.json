@@ -29,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/taivo/parse-push-plugin/issues"
   },
-  "homepage": "https://github.com/taivo/parse-push-plugin#readme"
+  "homepage": "https://github.com/taivo/parse-push-plugin#readme",
+  "dependencies": {
+    "cordova-common": "^3.2.0",
+    "elementtree": "^0.1.7"
+  }
 }
